@@ -1,0 +1,6 @@
+{
+  "name": "AI Phishing Website Detector - Capstone Project",
+  "description": "Development of an Artificial Intelligence-Based Phishing Website Detection Framework for ITA1402 – Ethical Hacking by Manu Neethi S, Sugantharaj A, Dinesh Karthik R, guided by Dr. Smitha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
